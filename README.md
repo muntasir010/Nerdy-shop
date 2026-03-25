@@ -1,3 +1,4 @@
 nerdy shop
 ** nerdy
--- tech stac html csss
+-- tech stack HTML, CSS
+** -- Using Tailwind CSS **
