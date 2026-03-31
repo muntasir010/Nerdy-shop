@@ -1,3 +1,4 @@
--- **Nerdy Shop** --
--- **tech stack HTML, CSS**
- -- **Using Tailwind CSS**
+- **Nerdy Shop**
+- **tech stack HTML, CSS**
+- **Using Tailwind CSS**
+- **I plan to update this website**
