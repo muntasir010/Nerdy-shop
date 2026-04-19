@@ -1,6 +1,5 @@
 - **Nerdy Shop**
 - **tech stack HTML, CSS**
 - **Using Tailwind CSS**
-- **I plan to update this website**
-- **HI There are**
-- No No No
+
+- Live link:
