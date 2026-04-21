@@ -1,5 +1,3 @@
 - **Nerdy Shop**
-- **tech stack HTML, CSS**
+- **Tech Stack- HTML, CSS**
 - **Using Tailwind CSS**
-
-- Live link:
